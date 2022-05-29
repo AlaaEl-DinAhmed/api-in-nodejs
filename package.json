@@ -1,0 +1,17 @@
+{
+  "name": "api-in-nodejs",
+  "version": "1.0.0",
+  "description": "API design in Node.js",
+  "repository": "https://github.com/AlaaEl-DinAhmed/api-in-nodejs.git",
+  "author": "alaaeldin.muhammad@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
